@@ -12,5 +12,6 @@ namespace ConsoleApp2
         {
 
         }
+        private int broj;
     }
 }
