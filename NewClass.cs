@@ -8,5 +8,6 @@ namespace ConsoleApp2
 {
     internal class NewClass
     {
+        private int broj;
     }
 }
